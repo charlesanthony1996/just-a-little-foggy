@@ -222,3 +222,14 @@ mjff-experiments/mjff-data/
 daphnet-experments/dataset/
 stappone-experiments/stappone_dummy_data/
 
+/mjff-experiments/mjff-data/
+/daphnet-experments/dataset/
+/stappone-experiments/stappone_dummy_data/
+
+.mjff-experiments/mjff-data/
+.daphnet-experments/dataset/
+.stappone-experiments/stappone_dummy_data/
+
+mjff-experiments/mjff-data
+daphnet-experments/dataset
+stappone-experiments/stappone_dummy_data
