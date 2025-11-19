@@ -10,6 +10,7 @@ import torch.optim as optim
 csv_path = "/users/charles/downloads/tlvmc-parkinsons-freezing-gait-prediction/train/tdcsfog/ffda8fadfd.csv"
 folder = "/users/charles/downloads/tlvmc-parkinsons-freezing-gait-prediction/train/tdcsfog/"
 
+# just a comment
 
 # "single", "all" or "split"
 mode = "all"
