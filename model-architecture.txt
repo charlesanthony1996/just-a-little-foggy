@@ -1,3 +1,0 @@
-raw csv imu data from mjff-data -> filter/normalize -> add lables from events.csv -> slice into windows
--> lstm model input
-
