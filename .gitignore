@@ -233,3 +233,13 @@ stappone-experiments/stappone_dummy_data/
 mjff-experiments/mjff-data
 daphnet-experments/dataset
 stappone-experiments/stappone_dummy_data
+
+# not push stappone data
+
+./stappone/data/
+/stappone/data/
+
+
+# not push mjff data
+/mjff/defog/data/
+./mjff/defog/data/
